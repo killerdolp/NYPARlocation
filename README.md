@@ -1,6 +1,7 @@
 Best to have some knowledge on kotlin / java (preferred (java is used in the project instead of kotlin ) ) before starting on this project
 
 THINGS TO NOTE
+
 For first time set up, you would have to wait for the build sync to finish loading before you can even run the project.
 
 If there is a prompt about invalid VCS root mapping, you can either ignore the warning or add in your own git repository 
@@ -10,6 +11,7 @@ It must be run by an external android device plugged into the computer.
 
 
 HOW TO RUN THE APP
+
 1)Download the zip folder that should have been attached together with this project.
 
 2)Download android studio and run first time set up 
