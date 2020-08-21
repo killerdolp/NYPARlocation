@@ -1,5 +1,6 @@
 Best to have some knowledge on kotlin / java (preferred (java is used in the project instead of kotlin ) ) before starting on this project
 
+
 THINGS TO NOTE
 
 For first time set up, you would have to wait for the build sync to finish loading before you can even run the project.
@@ -8,6 +9,7 @@ If there is a prompt about invalid VCS root mapping, you can either ignore the w
 
 This AR project cannot be run on a emulator on computer, the app would crash whenever you open tha AR camera. 
 It must be run by an external android device plugged into the computer. 
+
 
 
 HOW TO RUN THE APP
