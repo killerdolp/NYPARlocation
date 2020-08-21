@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Landing_page">
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/foodgle"
+        android:scaleType="fitXY"
+        android:id="@+id/OpenARcoreFoodgle"
+        ></ImageButton>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/koufupic"
+        android:id="@+id/OpenARcoreKouFu"></ImageButton>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/foodconnect"
+        android:id="@+id/OpenARcorefoodconnect"></ImageButton>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/northcanteen"
+        android:id="@+id/OpenARcorenorthcanteen"></ImageButton>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/southcanteen"
+        android:id="@+id/OpenARcoresouthcanteen"></ImageButton>
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/junctiont"
+        android:id="@+id/OpenARcoreT_junction"></ImageButton>
+</LinearLayout>
